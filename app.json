@@ -15,7 +15,7 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/R447H-NOOB/AutoFilterBotV3"
+    "website": "https://github.com/R447H-NOOB/AutoFilterBotV3",
     "repository": "https://github.com/R447H-NOOB/AutoFilterBotV3",
     "env": {
         "BOT_TOKEN": {
